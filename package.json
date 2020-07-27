@@ -17,10 +17,11 @@
     "url": "https://github.com/NguyenAndrew/Jest-Typescript-Example-in-Node/issues"
   },
   "homepage": "https://github.com/NguyenAndrew/Jest-Typescript-Example-in-Node#readme",
-  "dependencies": {
-    "typescript": "^3.9.7"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "jest": "^26.1.0"
+    "@types/jest": "^26.0.7",
+    "jest": "^26.1.0",
+    "ts-jest": "^26.1.3",
+    "typescript": "^3.9.7"
   }
 }
