@@ -1,4 +1,4 @@
-import sqsSend from "./example-aws";
+import sqsSend from "./aws-sdk-example";
 
 jest.mock('aws-sdk', () => {
     const SQSMocked = {
